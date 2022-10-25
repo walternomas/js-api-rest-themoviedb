@@ -1,0 +1,25 @@
+{
+  "name": "js-api-rest-themoviedb",
+  "version": "1.0.0",
+  "description": "Práctica en Consumo de API REST con JavaScript utilizando TheMovieDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walternomas/js-api-rest-themoviedb.git"
+  },
+  "keywords": [
+    "javascript",
+    "api",
+    "rest",
+    "themoviedb"
+  ],
+  "author": "Walter Barrios <walterbarrios@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walternomas/js-api-rest-themoviedb/issues"
+  },
+  "homepage": "https://github.com/walternomas/js-api-rest-themoviedb#readme"
+}
